@@ -1,0 +1,10 @@
+name: SudoCommand
+main: com.sudocommand.SudoCommand
+version: 1.0
+description: A Paper plugin for executing commands with sudo.
+author: JianXian
+api-version: 1.20
+commands:
+  sudo:
+    description: Execute commands with sudo permissions.
+    usage: /sudo <command>
